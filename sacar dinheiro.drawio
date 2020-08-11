@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T00:33:03.998Z" agent="5.0 (X11)" etag="7qIZ-GeNEIG1-sG-MK-d" version="13.6.2" type="github"><diagram id="hCErhLwWDX9dkGoQ4ali" name="Page-1">5Zrfd5owFMf/Gh+3Q0B+PTKhLedY6cR27d6YpEAPGhZj1f31CxJEiFrWikz74iGXhIRvPtx7k9iRepPlNfaS8Bb5MO6Igr/sSGZHFFVdob+pYZUZurKcGQIc+ZkJFAY3+gOZUWDWeeTDWakiQSgmUVI2jtF0CsekZPMwRotytWcUl3tNvAByBnfsxbz1R+STMLNqolrYb2AUhHnPQNGzOxMvr8zeZBZ6PlpsmSSrI/UwQiS7mix7ME61y3XJ2l3tubsZGIZTUqeB8/L6rEmCL1oBeHzqoeXv69EXKXvKqxfP2QuzwZJVrgD0qSCsiDAJUYCmXmwV1m8Yzac+TLsRaKmo00cooUZAjS+QkBWbXW9OEDWFZBKzu1mfaUd7342ZZmiOx/DAC+WMeDiA5EA9cTMDlFyIJpDgFW2HYeyR6LU8Do8xFGzqFTLTC6b0P6gOONVd4/u9RU3m+sce3Fj20OGmohA6VW0RRgS6ibfWY0G/vl2ivkJM4PKwrLwMrIHUZewuCvRBznO4hb0iNKSUcml8ijX5lNvkU+RUtwd2z+aBpM+ijhi+DWOZ3GOiyeIKkGqiqjWFqnZpqMo1UVXbRFXmVDfta3uUulGKqzC4v7VSRyqYBv3pOYORwc0KDcxJekk18uIYxijA3oRKmUAc0UFCXL13V9x4i/vnaAnzrOZI5It6mXxR5skXd5EPQFPo5w++HPbVmuzrbbKv8uwbpuNeFO2SVKa9K+zw890dtKuNwX5xOYleE3bQalIC1M8is/ZBmVnTOxTRIRZxo5IxKdVwkA2MtapM1mYY758/fa+3sh5td2TdctOLQzT5NZ+ddqnD1JEFmfczO6OqKDcEvHhxURXUTSlBq3EVvJFUPhh9Z5hG2bTAVu7nHWVlUPENO3JKIJ8yyop8cnPu8Gs14ReVVuHn17G5n7YHPWc4tEZp4bx5B2oN3k+60ZXjfUG818139s3Vifa6up9XeKlVR8MnhK7RX8dU03bvnIH9YPW5qThlTihL6le55CdUhfcTusy7Cb0xN6G3ASfVC68e0/ZfNUnKDU9rg5wXzSXrICuttktb3n5tPCLtm1PBxsPquqmBsbfaqpCky6XZ1pMrqy61uk8tCJVjuuoyTT3cgF5kYzjq4ix/7x1HUsb9yBnaPw2T3/4/s6ivaGVpNbX1qK+deaz5cAjZ8xEo5ZnSqzPQ8F6FyJ+L57HJHhyITmf2QUhy93/7IPjN1Sub3xmqfe54BJGqawW9rkjvOGmkxeIPIRnMxb9qJOsv</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-11T00:34:13.379Z" agent="5.0 (X11)" etag="7hdcABK7dTxwwjOUrMMN" version="13.6.2" type="github">
+  <diagram id="hCErhLwWDX9dkGoQ4ali" name="Page-1">
+    <mxGraphModel dx="796" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-1" target="Ojvf830d2Eg1XYCoxqGT-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-1" value="SAQUE DE DINHEIRO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-2" target="Ojvf830d2Eg1XYCoxqGT-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-2" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-5" target="Ojvf830d2Eg1XYCoxqGT-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-5" value="DIGITE O NUMERO DA CONTA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="250" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-7" target="Ojvf830d2Eg1XYCoxqGT-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-7" value="DADOS DA CONTA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-9" target="Ojvf830d2Eg1XYCoxqGT-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-9" target="Ojvf830d2Eg1XYCoxqGT-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-9" value="DADOS EXISTEM" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="505" width="120" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-15" target="Ojvf830d2Eg1XYCoxqGT-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-15" value="DIGITE O VALOR DO SAQUE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="650" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-18" target="Ojvf830d2Eg1XYCoxqGT-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-18" value="DADOS INCORRETOS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-19" target="Ojvf830d2Eg1XYCoxqGT-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-19" target="Ojvf830d2Eg1XYCoxqGT-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-19" value="SALDO DISPONIVEL" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="537.5" y="760" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.833;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-21" target="Ojvf830d2Eg1XYCoxqGT-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="1000" />
+              <mxPoint x="270" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-21" value="SAQUE AUTORIZADO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ojvf830d2Eg1XYCoxqGT-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-23" value="SALDO INDISPONIVEL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ojvf830d2Eg1XYCoxqGT-26" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="970" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
